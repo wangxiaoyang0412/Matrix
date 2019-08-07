@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matrix</string>
+    <string name="hello_world">C Us Rise!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
+</resources>

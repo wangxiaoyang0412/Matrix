@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">重回巅峰!</string>
+    <string name="app_name">示例</string>
+    <string name="register">注册</string>
+    <string name="login">登陆</string>
+
+</resources>
