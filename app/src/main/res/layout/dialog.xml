@@ -12,6 +12,7 @@
         android:layout_height="match_parent"
         android:id="@+id/viewSwitcher">
         <include layout="@layout/report_event_type"/>
+        <include layout="@layout/report_event_spec"/>
     </ViewSwitcher>
 
 </LinearLayout>

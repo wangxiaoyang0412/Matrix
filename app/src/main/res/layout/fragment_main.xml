@@ -23,5 +23,16 @@
             android:src="@drawable/plus"
             android:tint="#fff"/>
 
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_focus"
+            android:layout_width="56dp"
+            android:layout_height="56dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"
+            android:layout_margin="24dp"
+            android:src="@drawable/focus"
+            android:tint="#fff"
+            />
     </RelativeLayout>
 </FrameLayout>
