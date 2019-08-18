@@ -315,6 +315,10 @@ public class MainFragment extends Fragment implements OnMapReadyCallback, Report
                 break;
             }case REQ_CODE_SPEECH_INPUT: {
                 showDialog("Traffic", "there is a traffic ahead");
+                /**
+                 * emulator has no voice input
+                 * 所以只能set default了
+                 * 在真机上就会将下边的代码实现*/
 //                if (resultCode == RESULT_OK && null != data) {
 //
 //                    ArrayList<String> result = data
